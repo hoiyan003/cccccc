@@ -2,11 +2,11 @@
 <html>
 <head>
 <style>
-   img<
+   img{
       display:block;
       margin-left: auto;
       margin-right: auto;
-    >
+    }
       </style>
       </head>
       <body>
